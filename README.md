@@ -4,7 +4,7 @@
 # KO-FINE-TUNING_DATAGEN 🐐
 
 <p align="center" width="100%">
-<img src="sources/worker.webp" alt="worker icon" style="width: 1073px; height:477px; display: block; margin: auto; border-radius: 50%;">
+<img src="source/worker.webp" alt="worker icon" style="width: 1073px; height:477px; display: block; margin: auto; border-radius: 50%;">
 </p>
 
 ---
