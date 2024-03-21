@@ -141,7 +141,7 @@
 
 ```
 
-- **6. Multi question**
+- **6. Mask Prediction**
     - LLM 은 Transformer의 Decoder만을 활용하여 구성된 Auto-regressive 언어 생성 모델입니다.
 
     - Transformer Decoder에만 존재하는 Masked-Multi Head Attetntion 블록은, 모델이 미래의 정보를 참조하지 않고, 과거와 현재 state만을 활용하여 토큰을 생성하게 하는데, 이는 구조적으로 현재 LLM의 사전학습 방식인 CLM 방식을 적용하는 이유입니다.
