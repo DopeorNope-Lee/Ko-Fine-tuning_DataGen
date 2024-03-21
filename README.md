@@ -166,6 +166,11 @@
 
 - (주)마커와 (주)미디어그룹사람과숲의 컨소시엄에서 학술적인 목적으로 연구되었으며, MIT License를 따릅니다. 
 
+- 이 모델은 과학기술정보통신부·광주광역시가 공동 지원한 '인공지능 중심 산업융합 집적단지 조성사업'으로 지원을 받아 수행된 연구 결과입니다.
+
+- This model was supported by Artificial intelligence industrial convergence cluster development project funded by the Ministry of Science and ICT(MSIT, Korea)&Gwangju Metropolitan City.
+
+
 - 데이터 원천을 제공해 준 NIA와 AI-Hub에 감사의 인사를 드립니다.
 
 - 한국의 LLM 생태계 발전에 힘써주신, 한국 오픈소스 개발자들과 연구원 분들에게 감사드립니다.
