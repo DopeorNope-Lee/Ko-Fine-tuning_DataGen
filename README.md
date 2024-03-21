@@ -1,7 +1,7 @@
 <p align="center" width="100%">
 </p>
 
-# KO-FINE-TUNING_DATAGEN 🐐
+# KO-FINE-TUNING_DATAGEN 📋
 
 <p align="center" width="80%">
 <img src="source/worker.webp" alt="worker icon" style="width: 512px; height:512px; display: block; margin: auto; border-radius: 50%;">
