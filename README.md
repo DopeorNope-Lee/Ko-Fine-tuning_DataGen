@@ -150,7 +150,7 @@
 
     - Transformer Decoder에만 존재하는 Masked-Multi Head Attetntion 블록은, 모델이 미래의 정보를 참조하지 않고, 과거와 현재 state만을 활용하여 토큰을 생성하게 하는데, 이는 구조적으로 현재 LLM의 사전학습 방식인 CLM 방식을 적용하는 이유입니다.
 
-    - 다만, 기존 Transforemer의 Encoder만을 활용한 BERT는 Bidirectional 하게 학습을 진행하기에 MLM 방식으로 사전학습을 진행하여 모델에서 언어의 이해를 증가 시킬 수 있도록 설계되었습니다.
+    - 다만, 기존 Transforemer의 Encoder만을 활용한 BERT는 Bidirectional 하게 학습을 진행하기에, MLM 방식으로 사전학습을 진행해 언어의 문맥을 이해할 수 있도록 설계되었습니다.
 
     - 이러한 매커니즘에 인사이트를 얻어, 문장에 랜덤한 단어를 masking하고, 마스킹 한 단어를 예측하게 하여 모델에게 문맥의 이해와 추론 능력을 키우고자 하는 목적성에서 생성된 데이터입니다.
 
