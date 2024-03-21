@@ -17,7 +17,7 @@
 - 한국 LLM 생태계의 경우, 고품질의 Fine-tuning 데이터셋이 매우 부족합니다.
 
 - GPT4나 Gemini를 통해 데이터를 생성하여 활용할 수 있지만, 현재 각 라이센스에서 각 모델을 통해 생성된 데이터를 경쟁하는 모델 학습에 사용하는건 현재 라이센스 위반으로 나와 있습니다. 
-  - 자세한 내용은 Open AI의 라이센스를 참고 바랍니다. (https://openai.com/policies/terms-of-use)
+  - 자세한 내용은 [Open AI의 라이센스](https://openai.com/policies/terms-of-use)를 참고 바랍니다. 
 
 - 이를 해결하기 위해, 효율적인 방법론으로, 라이센스 Free한 데이터셋을 만들기 위한 방법론을 공유하고자 이렇게 깃허브 repo를 생성하게 되었습니다.
 
